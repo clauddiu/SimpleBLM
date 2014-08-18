@@ -1,0 +1,16 @@
+{
+    "autoload" :{
+        "psr-4":{
+            "Clauddiu\\" : "src/Clauddiu/"
+        }
+    },
+    "autoload-dev":{
+        "classmap": [
+            "tests"
+        ]
+    },
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
+    }
+}
