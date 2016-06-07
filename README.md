@@ -1,5 +1,5 @@
 #SimpleBLM Reader
-Rightmove BLM parser for PHP
+BLM parser for PHP
 
 ##Requirements
 * PHP 5.4+
